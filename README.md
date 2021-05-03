@@ -8,4 +8,4 @@ Scripts are coded in STATA & RStudio.
 
 The code in this repository should allow anyone to nearly replicate each of the tables and figures present in the paper. 
 
-The Main STATA Do-File should be run first, followed by the R Scripts.
+The Main STATA Do-File should be run first, followed by the R Scripts. All outputs will be placed in the "Figures" and "Tables" folders within the replication package.
